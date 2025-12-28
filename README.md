@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![WhatsApp Image 2025-12-27 at 3 43 24 PM](https://github.com/user-attachments/assets/be620877-e00c-4183-b1cb-1da32f2c31f2)
 
-### Name:
-### Register Number:
+
+### Name:jonathan samraj A
+### Register Number:25013505
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
